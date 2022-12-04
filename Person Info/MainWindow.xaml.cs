@@ -16,7 +16,7 @@ namespace Person_Info
         }
 
         // Unnecessary piece of code
-        private void CreateAddress(string personName) => SendRequest("http://mr-maksis.ru/Index.php?FULLNAME=" + personName);
+        private void CreateAddress(string personName) => SendRequest("[hidden for security reasons]" + personName);
 
         /// <summary>
         /// Set image to image box into form
