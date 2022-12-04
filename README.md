@@ -1,3 +1,3 @@
 # Person Info
 
-programming collab with https://github.com/MrMaksis, designed to find famous people by keyword
+programming collab with <a href="https://github.com/MrMaksis">mr-maksis</a>, designed to find famous people by keyword
